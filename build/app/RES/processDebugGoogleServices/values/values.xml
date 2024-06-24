@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">548605842763</string>
+    <string name="google_api_key" translatable="false">AIzaSyBowOU8WxX235W_Yh5a9tNcTRxmbK04uN8</string>
+    <string name="google_app_id" translatable="false">1:548605842763:android:3a9383d446db2bc60dc4ce</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBowOU8WxX235W_Yh5a9tNcTRxmbK04uN8</string>
+    <string name="google_storage_bucket" translatable="false">rent-property-management-5b72c.appspot.com</string>
+    <string name="project_id" translatable="false">rent-property-management-5b72c</string>
+</resources>
