@@ -24,11 +24,6 @@
 - Firebase Firestore: Backend service for real-time database management.
 - Figma: UI/UX design tool used to craft an intuitive user interface.
 - Project Management: Efficient coordination and task management ensured project success.
-## Contributors
-- Nipuna Randiya
-- Sangeeth Thennakoon
-- Kavindu Lakshan
-- Sahan Sithira
 
 
 
